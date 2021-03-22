@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/murod-khaydarov/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=khaydarov&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=vue" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaydarov&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=7&theme=vue" /></a>
+<a href="https://www.linkedin.com/in/murod-khaydarov/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=khaydarov&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=vue" /> <!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaydarov&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=7&theme=vue" /></a>
 
 ### Programming Languages
 
